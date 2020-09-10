@@ -1,3 +1,8 @@
+/*
+本例子演示动态分配内存的用法
+time: 2020-9-11
+author: Chicharito
+*/
 #include<iostream>
 using namespace std;
 class bar{
