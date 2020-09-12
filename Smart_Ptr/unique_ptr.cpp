@@ -1,3 +1,8 @@
+/*
+本例子实现了基本的unique_ptr
+time：2020-09-12
+author: Chicharito
+*/
 #include "shape.h"
 #include<algorithm>
 template<typename T>
