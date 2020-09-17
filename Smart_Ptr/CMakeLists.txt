@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.11)
+project(Smart_Ptr)
+add_executable(auto_ptr auto_ptr.cpp)
+add_executable(unique_ptr unique_ptr.cpp)
+add_executable(shared_ptr shared_ptr.cpp)
